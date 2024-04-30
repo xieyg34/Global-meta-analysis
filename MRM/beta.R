@@ -1,7 +1,7 @@
-work_dir = '/home/xieyong/16S/03-filt/02+aquatic/qiime2/Diversity/core-metrics-results/beta'
+work_dir = '/home/xieyong/16S/03-filt/qiime2/Diversity/core-metrics-results/beta'
 
 # beta-div distance matrices
-beta_div_file = '/home/xieyong/16S/03-filt/02+aquatic/qiime2/Diversity/core-metrics-results/beta/beta_div.RDS'
+beta_div_file = '/home/xieyong/16S/03-filt/qiime2/Diversity/core-metrics-results/beta/beta_div.RDS'
 
 # params
 threads = 12
